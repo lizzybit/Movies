@@ -14,4 +14,6 @@
 
 ## 3. Exploring Correlations Using Python
 
+https://github.com/lizzybit/Movies/blob/main/Jupyter%20Notebook/Movies.ipynb
+
 ## 4. Conclusion and Summary
