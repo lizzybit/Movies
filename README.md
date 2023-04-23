@@ -2,7 +2,10 @@
  <img src="https://user-images.githubusercontent.com/128324837/233866073-4812aa39-55ec-4307-849c-9deb29a674de.png" width=70% height=70%>
 </p>
 
+<div align="center">
+ 
 # Looking at Correlations Between Variables in Movie Data Using Python
+</div>
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
