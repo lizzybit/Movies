@@ -52,4 +52,5 @@ The input and outputs of the python code used in this project can be found here:
 > https://github.com/lizzybit/Movies/blob/main/Jupyter%20Notebook/Movies.ipynb
 
 ## 4. Conclusion and Summary
-In conclusion, this project aimed to uncover patterns and correlations in movie data to gain insights into factors that make a movie successful in terms of its box office revenue. Using Python and various libraries, the project performed data cleaning, data visualization, and statistical analysis to explore the relationships between different variables related to movies.
+<p align = "justify"> 
+In conclusion, this project aimed to uncover patterns and correlations in movie data to gain insights into factors that make a movie successful in terms of its box office revenue. Using Python and various libraries, the project performed data cleaning, data visualization, and statistical analysis to explore the relationships between different variables related to movies. </p>
