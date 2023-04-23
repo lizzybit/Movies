@@ -1,3 +1,7 @@
+<p align = "center">
+ <img src="https://user-images.githubusercontent.com/128324837/233866073-4812aa39-55ec-4307-849c-9deb29a674de.png" width=70% height=70%>
+</p>
+
 # Looking at Correlations Between Variables in Movie Data Using Python
 
 ## Table of Contents
